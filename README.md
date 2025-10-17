@@ -21,7 +21,7 @@ of a set of students. Grades are separated by a space. Each line represents a st
 
 - Assignment questions and answers coded SEPARATELY among several python files and scripts:  <a href="https://github.com/CLochstampfor60/File_Assignment/tree/main/questions_separated" target="_blank" rel="noopener noreferrer">question_X.py</a>
 
-- URL of the <u>ODU Portflio & CYSE 250 Webpage</u>: <a href="https://sites.wp.odu.edu/locky/" target="_blank" rel="noopener noreferrer">CYSE 250 Course</a>
+- URL of the <u>ODU Portflio & CYSE 250 Webpage</u>: <a href="https://sites.wp.odu.edu/locky/cyse-250-basic-cybersecurity-networking-programming/" target="_blank" rel="noopener noreferrer">CYSE 250 Course</a>
 
 ## License
 
