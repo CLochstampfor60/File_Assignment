@@ -40,7 +40,6 @@ def create_input_files():
     
     print("All input files created successfully!\n")
 
-
 # ===== QUESTION 1 =====
 
 def question_1():
@@ -181,4 +180,4 @@ if __name__ == "__main__":
     question_4()
     print("-" * 50)
     
-    print("\nAll questions completed!")
+    print("\nAll questions completed!\n")

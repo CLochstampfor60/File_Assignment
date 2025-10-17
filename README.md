@@ -10,7 +10,10 @@ of a set of students. Grades are separated by a space. Each line represents a st
 
 
 - Results (from the questions_combined/main.py file)
-    - Insert Screenshot here.
+
+<p align="center">
+  <img src="Images\results_for_combined2.jpg" width="350" title="hover text">
+</p>
 
 ## Developer's Submitted Work:
 
